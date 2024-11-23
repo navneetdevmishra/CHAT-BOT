@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ai"
+		},
+		{
+			"path": "../Assets"
+		},
+		{
+			"path": "../contact"
+		},
+		{
+			"path": "../Contact Us page"
+		},
+		{
+			"path": "../Quiz"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "About"
+	}
+}
